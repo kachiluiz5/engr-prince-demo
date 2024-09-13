@@ -1017,13 +1017,13 @@
                 <ul class="nav border-gradient-tab nav-pills mb-0" id="pills-tab" role="tablist">
                   <li class="nav-item" role="presentation">
                     <button class="nav-link d-flex align-items-center active" id="pills-to-do-list-tab" data-bs-toggle="pill" data-bs-target="#pills-to-do-list" type="button" role="tab" aria-controls="pills-to-do-list" aria-selected="true">
-                      credit Withdrawal 
+                       Active Insurance
                       <span class="text-sm fw-semibold py-6 px-12 bg-neutral-500 rounded-pill text-white line-height-1 ms-12 notification-alert">35</span>
                     </button>
                   </li>
                   <li class="nav-item" role="presentation">
                     <button class="nav-link d-flex align-items-center" id="pills-recent-leads-tab" data-bs-toggle="pill" data-bs-target="#pills-recent-leads" type="button" role="tab" aria-controls="pills-recent-leads" aria-selected="false" tabindex="-1">
-                      Latest Subscribe 
+                      Expired Insurance 
                       <span class="text-sm fw-semibold py-6 px-12 bg-neutral-500 rounded-pill text-white line-height-1 ms-12 notification-alert">35</span>
                     </button>
                   </li>
@@ -1052,7 +1052,8 @@
                             <div class="d-flex align-items-center">
                               <img src="assets/images/users/user1.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                               <div class="flex-grow-1">
-                                <h6 class="text-md mb-0 fw-medium">Dianne Russell</h6>
+                                <h6 class="text-md mb-0 fw-medium">Ngozi Kamsi
+                                </h6>
                                 <span class="text-sm text-secondary-light fw-medium">redaniel@gmail.com</span>
                               </div>
                             </div>
@@ -1068,7 +1069,8 @@
                             <div class="d-flex align-items-center">
                               <img src="assets/images/users/user2.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                               <div class="flex-grow-1">
-                                <h6 class="text-md mb-0 fw-medium">Wade Warren</h6>
+                                <h6 class="text-md mb-0 fw-medium">Juliet Ulogu
+                                </h6>
                                 <span class="text-sm text-secondary-light fw-medium">xterris@gmail.com</span>
                               </div>
                             </div>
@@ -1084,7 +1086,7 @@
                             <div class="d-flex align-items-center">
                               <img src="assets/images/users/user3.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                               <div class="flex-grow-1">
-                                <h6 class="text-md mb-0 fw-medium">Albert Flores</h6>
+                                <h6 class="text-md mb-0 fw-medium">Johnpaul Kenneth</h6>
                                 <span class="text-sm text-secondary-light fw-medium">seannand@mail.ru</span>
                               </div>
                             </div>
@@ -1100,7 +1102,7 @@
                             <div class="d-flex align-items-center">
                               <img src="assets/images/users/user4.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                               <div class="flex-grow-1">
-                                <h6 class="text-md mb-0 fw-medium">Bessie Cooper </h6>
+                                <h6 class="text-md mb-0 fw-medium">Kehinde Babalola </h6>
                                 <span class="text-sm text-secondary-light fw-medium">igerrin@gmail.com</span>
                               </div>
                             </div>
@@ -1116,7 +1118,7 @@
                             <div class="d-flex align-items-center">
                               <img src="assets/images/users/user5.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                               <div class="flex-grow-1">
-                                <h6 class="text-md mb-0 fw-medium">Arlene McCoy</h6>
+                                <h6 class="text-md mb-0 fw-medium">Haruna Labi</h6>
                                 <span class="text-sm text-secondary-light fw-medium">fellora@mail.ru</span>
                               </div>
                             </div>
@@ -1235,7 +1237,7 @@
         <div class="card h-100">
           <div class="card-body">
             <div class="d-flex align-items-center flex-wrap gap-2 justify-content-between">
-              <h6 class="mb-2 fw-bold text-lg mb-0">Top Performer</h6>
+              <h6 class="mb-2 fw-bold text-lg mb-0">Insurance Cost</h6>
               <a href="javascript:void(0)" class="text-primary-600 hover-text-primary d-flex align-items-center gap-1">
                 View All
                 <iconify-icon icon="solar:alt-arrow-right-linear" class="icon"></iconify-icon>
@@ -1248,7 +1250,8 @@
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user1.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
-                    <h6 class="text-md mb-0 fw-medium">Dianne Russell</h6>
+                    <h6 class="text-md mb-0 fw-medium">Ngozi Kamsi
+                    </h6>
                     <span class="text-sm text-secondary-light fw-medium">Agent ID: 36254</span>
                   </div>
                 </div>
@@ -1259,7 +1262,8 @@
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user2.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
-                    <h6 class="text-md mb-0 fw-medium">Wade Warren</h6>
+                    <h6 class="text-md mb-0 fw-medium">Juliet Ulogu
+                    </h6>
                     <span class="text-sm text-secondary-light fw-medium">Agent ID: 36254</span>
                   </div>
                 </div>
@@ -1270,7 +1274,7 @@
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user3.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
-                    <h6 class="text-md mb-0 fw-medium">Albert Flores</h6>
+                    <h6 class="text-md mb-0 fw-medium">Johnpaul Kenneth</h6>
                     <span class="text-sm text-secondary-light fw-medium">Agent ID: 36254</span>
                   </div>
                 </div>
@@ -1281,7 +1285,8 @@
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user4.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
-                    <h6 class="text-md mb-0 fw-medium">Bessie Cooper</h6>
+                    <h6 class="text-md mb-0 fw-medium">Kehinde Babalola
+                    </h6>
                     <span class="text-sm text-secondary-light fw-medium">Agent ID: 36254</span>
                   </div>
                 </div>
@@ -1292,14 +1297,14 @@
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user5.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
-                    <h6 class="text-md mb-0 fw-medium">Arlene McCoy</h6>
+                    <h6 class="text-md mb-0 fw-medium">Haruna Labi</h6>
                     <span class="text-sm text-secondary-light fw-medium">Agent ID: 36254</span>
                   </div>
                 </div>
                 <span class="text-primary-light text-md fw-medium">$10</span>
               </div>
 
-              <div class="d-flex align-items-center justify-content-between gap-3">
+              <!-- <div class="d-flex align-items-center justify-content-between gap-3">
                 <div class="d-flex align-items-center">
                   <img src="assets/images/users/user1.png" alt="" class="w-40-px h-40-px rounded-circle flex-shrink-0 me-12 overflow-hidden">
                   <div class="flex-grow-1">
@@ -1308,7 +1313,7 @@
                   </div>
                 </div>
                 <span class="text-primary-light text-md fw-medium">$10</span>
-              </div>
+              </div> -->
 
             </div>
             
